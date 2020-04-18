@@ -1,6 +1,6 @@
 import tkinter as tk
-from YouTubeHandler import YouTubeHandler
-from TimeStamper import TimeStamper
+from youtubestamper.YouTubeHandler import YouTubeHandler
+from youtubestamper.TimeStamper import TimeStamper
 from pyperclip import copy
 
 

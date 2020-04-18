@@ -1,4 +1,4 @@
-from YouTubeTimeStamperGUI import YouTubeTimeStamper
+from youtubestamper.YouTubeTimeStamperGUI import YouTubeTimeStamper
 import tkinter as tk
 
 
